@@ -1,0 +1,7 @@
+[{"description":"create ER-diagram", "due":"2020-05-20", "employee":"Alex", "finished":"2019-05-20"},
+{"description":"connect node.js to mysql", "due":"2013-05-20", "employee":"John", "finished":"2017-05-20"},
+{"description":"create get-request handler /task", "due":"NULL", "employee":"Alex", "finished":"2015-04-20"},
+{"description":"create post-request handler /task", "due":"2005-04-20", "employee":"Donald", "finished":"NULL"},
+{"description":"create sql-query for get tasks", "due":"NULL", "employee":"John", "finished":"NULL"},
+{"description":"create sql-query for add task", "due":"2004-03-20", "employee":"Martin", "finished":"2004-03-20"},
+{"description":"configure server to auto deploy", "due":"2012-03-20", "employee":"NULL", "finished":"NULL"}]
